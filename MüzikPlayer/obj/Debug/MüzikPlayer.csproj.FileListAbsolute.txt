@@ -1,0 +1,38 @@
+C:\Users\Mehmet\source\repos\MüzikPlayer\MüzikPlayer\bin\Debug\MüzikPlayer.exe.config
+C:\Users\Mehmet\source\repos\MüzikPlayer\MüzikPlayer\bin\Debug\MüzikPlayer.exe
+C:\Users\Mehmet\source\repos\MüzikPlayer\MüzikPlayer\bin\Debug\MüzikPlayer.pdb
+C:\Users\Mehmet\source\repos\MüzikPlayer\MüzikPlayer\bin\Debug\Interop.WMPLib.dll
+C:\Users\Mehmet\source\repos\MüzikPlayer\MüzikPlayer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Mehmet\source\repos\MüzikPlayer\MüzikPlayer\obj\Debug\MüzikPlayer.csprojAssemblyReference.cache
+C:\Users\Mehmet\source\repos\MüzikPlayer\MüzikPlayer\obj\Debug\Interop.WMPLib.dll
+C:\Users\Mehmet\source\repos\MüzikPlayer\MüzikPlayer\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Mehmet\source\repos\MüzikPlayer\MüzikPlayer\obj\Debug\MüzikPlayer.csproj.ResolveComReference.cache
+C:\Users\Mehmet\source\repos\MüzikPlayer\MüzikPlayer\obj\Debug\MüzikPlayer.Form1.resources
+C:\Users\Mehmet\source\repos\MüzikPlayer\MüzikPlayer\obj\Debug\MüzikPlayer.Properties.Resources.resources
+C:\Users\Mehmet\source\repos\MüzikPlayer\MüzikPlayer\obj\Debug\MüzikPlayer.csproj.GenerateResource.cache
+C:\Users\Mehmet\source\repos\MüzikPlayer\MüzikPlayer\obj\Debug\MüzikPlayer.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet\source\repos\MüzikPlayer\MüzikPlayer\obj\Debug\MüzikPlayer.exe
+C:\Users\Mehmet\source\repos\MüzikPlayer\MüzikPlayer\obj\Debug\MüzikPlayer.pdb
+C:\Users\Mehmet\source\repos\MüzikPlayer\MüzikPlayer\obj\Debug\MüzikPlayer.Resource1.resources
+C:\Users\Mehmet\source\repos\MüzikPlayer\MüzikPlayer\obj\Debug\MüzikPlayer.Kaydet.resources
+C:\Program Files (x86)\MüzikPlayer\MüzikPlayer\bin\Debug\MüzikPlayer.exe.config
+C:\Program Files (x86)\MüzikPlayer\MüzikPlayer\bin\Debug\MüzikPlayer.exe
+C:\Program Files (x86)\MüzikPlayer\MüzikPlayer\bin\Debug\MüzikPlayer.pdb
+C:\Program Files (x86)\MüzikPlayer\MüzikPlayer\bin\Debug\Interop.WMPLib.dll
+C:\Program Files (x86)\MüzikPlayer\MüzikPlayer\bin\Debug\AxInterop.WMPLib.dll
+C:\Program Files (x86)\MüzikPlayer\MüzikPlayer\obj\Debug\MüzikPlayer.csprojAssemblyReference.cache
+C:\Program Files (x86)\MüzikPlayer\MüzikPlayer\obj\Debug\Interop.WMPLib.dll
+C:\Program Files (x86)\MüzikPlayer\MüzikPlayer\obj\Debug\AxInterop.WMPLib.dll
+C:\Program Files (x86)\MüzikPlayer\MüzikPlayer\obj\Debug\MüzikPlayer.csproj.ResolveComReference.cache
+C:\Program Files (x86)\MüzikPlayer\MüzikPlayer\obj\Debug\MüzikPlayer.Form1.resources
+C:\Program Files (x86)\MüzikPlayer\MüzikPlayer\obj\Debug\MüzikPlayer.Kaydet.resources
+C:\Program Files (x86)\MüzikPlayer\MüzikPlayer\obj\Debug\MüzikPlayer.Properties.Resources.resources
+C:\Program Files (x86)\MüzikPlayer\MüzikPlayer\obj\Debug\MüzikPlayer.Resource1.resources
+C:\Program Files (x86)\MüzikPlayer\MüzikPlayer\obj\Debug\MüzikPlayer.csproj.GenerateResource.cache
+C:\Program Files (x86)\MüzikPlayer\MüzikPlayer\obj\Debug\MüzikPlayer.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\MüzikPlayer\MüzikPlayer\obj\Debug\MüzikPlayer.exe
+C:\Program Files (x86)\MüzikPlayer\MüzikPlayer\obj\Debug\MüzikPlayer.pdb
+C:\Program Files (x86)\MüzikPlayer\MüzikPlayer\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Program Files (x86)\MüzikPlayer\MüzikPlayer\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Program Files (x86)\MüzikPlayer\MüzikPlayer\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Program Files (x86)\MüzikPlayer\MüzikPlayer\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
